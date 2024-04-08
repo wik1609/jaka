@@ -8,9 +8,9 @@ public class zadanie7 {
 
         double pi = 3.14;
 
-        double suma = 2 * pi * promien;
+        double suma = pi * (promien * promien);
 
-        System.out.println("Obwód koła to " + suma);
+        System.out.println("Pole koła to " + suma);
 
 
     }
