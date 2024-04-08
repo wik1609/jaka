@@ -12,5 +12,8 @@ public class zadanie6 {
 
         int suma = a + b;
         System.out.println("Suma liczb to " + suma);
+        input.close();
+        in.close();
     }
+    
 }

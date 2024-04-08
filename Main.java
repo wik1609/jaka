@@ -10,5 +10,6 @@ public class Main {
     
     System.out.println("Twoja liczba to " + number);
     System.out.println("Ostatnia cyfra to " + lastDigit);
+    input.close();
     } //% - reszta z dzielenia
 }

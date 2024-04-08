@@ -12,7 +12,7 @@ public class zadanie7 {
 
         System.out.println("Pole koła to " + suma);
 
-
+        r.close();
     }
 
 }
